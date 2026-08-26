@@ -6,6 +6,7 @@
 - Manajemen tugas: tambah, edit, hapus, selesai, cari, filter, drag-and-drop urutan
 - Catatan: tambah, edit, hapus
 - Auto-save ke localStorage
+
 Cara Pakai
 Klik ikon 🌙/☀️ untuk ganti tema
 Klik ↻ Refresh untuk ganti kutipan
